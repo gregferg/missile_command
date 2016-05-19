@@ -1,6 +1,6 @@
 ##Missile Command
 
-[Play!][github_pages] **NB:**
+[Play!][github_pages] **NB:** Live Version
 
 [github_pages]: http://gregferg.github.io/missile_command/
 
