@@ -6,7 +6,7 @@
 
 Missile Command is based off the 1980 Missile Command game for the Atari.
 
-![game_play](./assets/game_play.png)
+![game_play1](./assets/game_play1.png)
 
 ## Instructions
 1. Click on Live Link
